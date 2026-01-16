@@ -82,7 +82,7 @@ Impression 3D de structures en régolithe martien consolidé par biosystèmes li
 
 ---
 
-**Auteur :** Dr. Bryan Ouellette
+**Auteur :**Bryan Ouellette
 
 **Laboratoire :** Protocole Ouellette - Ingénierie de la Résilience Moléculaire
 
