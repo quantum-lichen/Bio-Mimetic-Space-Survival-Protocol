@@ -44,3 +44,46 @@ graph TD
     E --> F
     F --> G[Blindage Génomique Dsup]
     G --> H[Préservation de l'Intégrité Eucaryote]
+
+```
+
+---
+
+## 🔬 Prédictions & Métrologie (Benchmarks)
+
+| Paramètre | Cible (Humain/Matériau) | Source Bio-Inspirée | Impact |
+| --- | --- | --- | --- |
+| **Radioprotection** | Réduction 50% cassures ADN | Protéine Dsup | Haute |
+| **Stabilité Thermique** |  | Protéines CAHS | Critique |
+| **Filtration UV** |  (UVC/UVB) | Pariétine | Maximale |
+
+---
+
+## 🚀 Roadmap des Applications
+
+### 🔹 Court Terme (1-5 ans) : Stabilisation de Vaccins
+
+Utilisation de mélanges tréhalose-CAHS pour supprimer la chaîne du froid (stabilité à  au lieu de ).
+
+### 🔸 Moyen Terme (5-10 ans) : Radiothérapie Transitoire
+
+Livraison d'ARNm de Dsup via nanoparticules lipidiques pour protéger les tissus sains lors du traitement de tumeurs.
+
+### 🌌 Long Terme (15+ ans) : Habitats Auto-Croissants
+
+Impression 3D de structures en régolithe martien consolidé par biosystèmes lichénisés (symbiose fongique/cyanobactérienne).
+
+---
+
+## ⚠️ Limitations & Éthique
+
+* **Neurotoxicité** : L'expression de Dsup doit être régulée pour éviter une condensation anormale de la chromatine neuronale.
+* **Protection Planétaire** : Risque de contamination irréversible des biosphères extra-terrestres par des châssis génétiques terrestres ultra-résilients.
+
+---
+
+**Auteur :** Dr. Bryan Ouellette
+
+**Laboratoire :** Protocole Ouellette - Ingénierie de la Résilience Moléculaire
+
+```
