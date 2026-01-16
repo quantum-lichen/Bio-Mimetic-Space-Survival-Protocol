@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this protocol, please cite it as below."
+authors:
+  - family-names: Ouellette
+    given-names: Bryan
+    orcid: "https://orcid.org/0000-0000-0000-0000" # À compléter
+title: "Protocole Ouellette: Bio-Mimetic Space Survival Engine"
+version: 1.0.0
+date-released: 2026-01-16
+url: "https://github.com/Bryan-Ouellette/Bio-Mimetic-Space-Survival-Protocol"
+abstract: >-
+  Cadre théorique et méthodologique pour la transposition génomique et matérielle 
+  des mécanismes de biostase du lichen et du tardigrade. Inclut le formalisme 
+  de vitrification cytoplasmique et de blindage génomique via la protéine Dsup.
+keywords:
+  - Astrobiology
+  - Biostasis
+  - Dsup Protein
+  - Vitrification
+  - Space Survival
