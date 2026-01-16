@@ -13,3 +13,4 @@ Bienvenue dans l'effort collaboratif sur la résilience eucaryote. Pour mainteni
 
 ## ⚖️ Éthique
 Toute contribution visant à l'augmentation humaine doit discuter les risques de toxicité sélective (ex: apoptose neuronale induite par Dsup).
+---
